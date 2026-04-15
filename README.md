@@ -2,6 +2,8 @@
 
 # Frontend Developer, 전상원
 
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fswjeon-dev?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+
 ### Contact me
 
 [![GITHUB](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/swjeon-dev)
@@ -14,30 +16,30 @@
 
 단순 구현이 아니라 성능 개선과 사용자 흐름 최적화를 통해 제품 가치를 높이는 데 관심이 있습니다.
 
-## Tech Stack
+### Tech Stack
 
-### **Frontend**
+#### **Frontend**
 
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/typeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" /> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=20232a" /> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />
 
-### **Styling**
+#### **Styling**
 
 <img src="https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Styled--components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=ffffff" /> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css&logoColor=white" />
 
-### **Backend**
+#### **Backend**
 
 <img src="https://img.shields.io/badge/firebase-0068FF?style=for-the-badge&logo=firebase" />
 
-### **Tools**
+#### **Tools**
 
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 
-### **Used at least once**
+#### **Used at least once**
 
 <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=black">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
 
-### Currently Learning
+#### Currently Learning
 
 Next.js App Router & Server Components
 
