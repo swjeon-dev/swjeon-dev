@@ -1,33 +1,14 @@
-# 👋 프론트엔드 개발자 전상원입니다
+## Frontend Developer, 전상원
 
-사용자의 행동 흐름을 이해하고, 더 나은 경험으로 개선하는 UI를 만드는 것을 목표로 합니다.
-단순한 기능 구현이 아닌 **문제 해결 중심의 개발**을 지향합니다.
+사용자 경험을 개선하는 데 집중하는 프론트엔드 개발자입니다.
 
----
+단순 구현이 아니라 성능 개선과 사용자 흐름 최적화를 통해 제품 가치를 높이는 데 관심이 있습니다.
 
-## 🔍 Summary
+### Tech Stack
 
-- React + TypeScript 기반 웹 서비스 개발 경험
-- Firebase 기반 서버리스 아키텍처 설계 및 데이터 처리 경험
-- 사용자 경험 개선을 위한 상태 관리 및 비동기 처리 최적화
-- 재사용성과 유지보수성을 고려한 컴포넌트 설계
-
----
-
-## 🛠 Tech Stack
-
-**Frontend**:
+#### **Frontend**
 
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/typeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" /> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=20232a" /> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" /> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-
-<!-- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
-<img src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" /> -->
-
-<!-- <img src="" />
-<img src="" />
-<img src="" /> -->
 
 **Styling**
 
@@ -41,55 +22,14 @@
 
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 
----
+### Currently Learning
 
-## 🚀 Projects
+- Next.js App Router & Server Components
+- Testing Library 기반 테스트 코드 작성
+- 성능 측정 (Lighthouse, Web Vitals)
 
-### 1. Find Player Game
+### Contact me
 
-> 실시간 매칭 기반 게임 커뮤니티 플랫폼
-
-- Firebase Realtime Database + Cloud Functions를 활용한 서버리스 구조 설계
-- GitHub Actions를 활용한 **데이터 동기화 자동화 환경 구축**
-- TypeScript 기반 API 데이터 명시로 **타입 안정성 및 개발 생산성 향상**
-
-👉 **성과**
-
-- 실시간 상태 기반 UI 업데이트 구조 설계 경험 확보
-- 비동기 데이터 흐름 관리 및 예외 처리 로직 개선
-
-[🔗 GitHub Repository](여기에_링크)
-
----
-
-### 2. Xflix
-
-> OTT 서비스 UI/UX 클론 및 기능 확장 프로젝트
-
-- React 기반 컴포넌트 구조 설계 및 재사용 가능한 UI 구성
-- REST API 기반 콘텐츠 데이터 처리 및 로딩/에러 상태 관리
-- 사용자 인터랙션(탭, 슬라이드 등)에 따른 **동적 UI 구현**
-
-👉 **성과**
-
-- API 데이터 흐름에 따른 상태 관리 구조 이해
-- 사용자 경험 개선을 위한 UI 상태 분기 처리
-
-[🔗 GitHub Repository](여기에_링크)
-
----
-
-## 📈 About Me
-
-- 기능 구현에 그치지 않고, **사용자 경험을 개선하는 방향**을 고민합니다
-- 데이터 흐름과 상태 변화를 기반으로 UI를 설계합니다
-- 재사용 가능한 구조와 유지보수성을 고려한 코드 작성을 지향합니다
-
----
-
-## 📫 Contact
-
-- Email: [allmie@naver.com](mailto:your-email@gmail.com)
-- Portfolio: 포트폴리오\_링크
-
----
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/swjeon-dev)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/sangwon-jeon/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='email' height='40'>](allmie@naver.com)
