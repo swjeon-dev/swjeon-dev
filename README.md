@@ -7,8 +7,8 @@
 ### Contact me
 
 [![GITHUB](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/swjeon-dev)
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat)](https://github.com/swjeon-dev)
-[![EMAIL](https://img.shields.io/badge/EMAIL-03C75A?style=flat&logo=naver&logoColor=white)](https://github.com/swjeon-dev)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat)](https://www.linkedin.com/in/sangwon-jeon)
+[![EMAIL](https://img.shields.io/badge/EMAIL-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jsoftware9201@gmail.com)
 
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swjeon-dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangwon-jeon/) [![Email](https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allmie@naver.com) -->
 
